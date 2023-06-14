@@ -1,0 +1,31 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0px;
+}
+.fa-facebook-f, .fa-twitter, .fa-google, .fa-linkedin, .fa-instagram {
+padding: 10px;
+font-size: 20px;
+width: 20px;
+text-align: center;
+text-decoration: none;
+margin: 3px 1px;
+border-radius: 50%;
+background: white;
+/* color: white; */
+}
+.download{
+    border-color: darkcyan;
+    background-color: darkcyan;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.contact{
+    border-color: red;
+    background-color: red;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
